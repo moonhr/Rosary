@@ -1,0 +1,21 @@
+{
+  "name": "묵주기도",
+  "short_name": "묵주기도",
+  "description": "묵주기도문 앱",
+  "icons": [
+    {
+      "src": "/static/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#eeeeee"
+}
