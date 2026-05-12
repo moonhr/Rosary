@@ -1,9 +1,5 @@
-import RosaryMenu from "@/components/menu/RosaryMenu";
+import RosaryApp from "./RosaryApp";
 
 export default function Home() {
-  return (
-    <div>
-      <RosaryMenu />
-    </div>
-  );
+  return <RosaryApp />;
 }
